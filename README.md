@@ -11,3 +11,6 @@ https://github.com/riya27-2/spotify-clone.git
 
 3.Double click on index.html
 or open it with any browser (Chrome, Edge, etc.)
+
+
+live link:https://riya27-2.github.io/spotify-clone/
